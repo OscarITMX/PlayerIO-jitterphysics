@@ -1,4 +1,6 @@
 # Welcome to PlayerIO-jitterphysics
+# - Documentation in how to use with PlayerIO in progress, you can copy paste this into your C# project, compile and it will work with PlayerIO.
+
 This is an adaptation of jitterphysics to work with the awesome PlayerIO multiplayer services.
 jitterphysics development looks to be quite abandon with better built-in solutions in game development tools like Unity.
 
